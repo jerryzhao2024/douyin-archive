@@ -1,0 +1,3 @@
+interface:
+  display_name: "抖音素材归档"
+  short_description: "Download Douyin videos or image posts, classify them by frame, archive into robot / monthly / interview folders, and generate transcripts."
